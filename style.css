@@ -1,0 +1,16 @@
+
+.flex-container{
+    background-color: #F50001;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#sign{
+    background-color:#F5F100;
+    border-radius: 20px;
+    height: 550px;
+    width: 500px;
+    padding: 50px;
+}
